@@ -6,7 +6,7 @@ export default function Navbar() {
 			<a href="https:/edhelper.netlifyapp/?a=create-web3-dapp" target={"_blank"}>
 				<img
 					className={styles.alchemy_logo}
-					src="/alchemy_logo.svg"
+					src="/image.png"
 				></img>
 			</a>
 			<ConnectButton></ConnectButton>
